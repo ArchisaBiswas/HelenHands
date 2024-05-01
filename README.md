@@ -81,17 +81,16 @@ Languages: Kotlin and Python
 
 * Project Portfolio Website
 <div align="center">
-  <img src="portfolio_1.png" width="300">
-  <br>
-  <img src="portfolio_2.png" width="300">
+  <img src="portfolio_1.png" width="300" height="auto">
+  <img src="portfolio_2.png" width="300" height="auto">
   <br>
   <img src="portfolio_3.png" width="300">
 </div>
 
 * Mobile Application: Splash Screen and Dashboard
 <div align="center">
-  <img src="Project_Portfolio_Web_Page/assets/img/gallery/gallery-1.jpeg" alt="Splash Screen" width="400" height="auto">
-  <img src="Project_Portfolio_Web_Page/assets/img/gallery/gallery-2.jpeg" alt="Dashboard" width="400" height="auto">
+  <img src="Project_Portfolio_Web_Page/assets/img/gallery/gallery-1.jpeg" width="200" height="300">
+  <img src="Project_Portfolio_Web_Page/assets/img/gallery/gallery-2.jpeg" width="200" height="300">
 </div>
   
 <h2>Presented at International Conference on Sustainable Advanced Computing 2024</h2>
