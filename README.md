@@ -92,6 +92,27 @@ Languages: Kotlin and Python
   <img src="Project_Portfolio_Web_Page/assets/img/gallery/gallery-1.jpeg" width="200" height="300">
   <img src="Project_Portfolio_Web_Page/assets/img/gallery/gallery-2.jpeg" width="200" height="300">
 </div>
+
+* Modules: Virtual White Cane
+ <div align="center">
+  <img src="Project_Portfolio_Web_Page/assets/img/gallery/gallery-5.jpeg" width="200" height="300">
+ </div>
+  
+* Modules: Let's Chat
+  <div align="center">
+  <img src="Project_Portfolio_Web_Page/assets/img/gallery/gallery-3.jpeg" width="200" height="300">
+  </div>
+  
+* Modules: SOS Reach
+  <div align="center">
+  <img src="Project_Portfolio_Web_Page/assets/img/gallery/gallery-4.jpeg" width="200" height="300">
+ </div>
+ 
+* Modules: Wellness-Aware Enabler
+  <div align="center">
+  <img src="Project_Portfolio_Web_Page/assets/img/gallery/gallery-6.jpeg" width="200" height="300">
+  <img src="Project_Portfolio_Web_Page/assets/img/gallery/gallery-7.jpeg" width="200" height="300">
+</div>
   
 <h2>Presented at International Conference on Sustainable Advanced Computing 2024</h2>
 This project is licensed under the terms of the MIT license and protected by Udacity Honor Code and Community Code of Conduct. See <a href="LICENSE.md">license</a> and <a href="LICENSE.DISCLAIMER.md">disclaimer</a>.
