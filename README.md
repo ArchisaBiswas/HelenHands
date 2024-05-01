@@ -5,8 +5,6 @@ tackle the intricate challenges faced by individuals in communication, navigatio
 and health management. In a landscape marked by diversity, the project aims to
 deliver an equitable and inclusive user experience in an increasingly dynamic
 world.</strong>
-<br>Comment</p>
-<br/>
 <div align="center"><img src="demo.gif"></img></div>
 <h2>About</h2>
 The unique needs of individuals with visual, hearing, or speech impairments are
