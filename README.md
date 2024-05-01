@@ -1,10 +1,6 @@
 <div align="center"><img src="app/src/main/res/mipmap-xhdpi/ic_launcher.png"></div>
 <h1 align="center">HelenHands</h1>
-<p align="center"><strong>The HelenHands project emerges as a pioneering mobile application designed to
-tackle the intricate challenges faced by individuals in communication, navigation,
-and health management. In a landscape marked by diversity, the project aims to
-deliver an equitable and inclusive user experience in an increasingly dynamic
-world.</strong>
+<p align="center"><strong>Your World, Connected and Accessible</strong>
 <div align="center"><img src="demo.gif"></img></div>
 <h2>About</h2>
 The unique needs of individuals with visual, hearing, or speech impairments are
@@ -43,7 +39,7 @@ promoting diversity in digital spaces.
 * Working Front Camera of the Phone to be Used.
 * Active Internet Connection Required
 
-<h2>Key learnings</h2>
+<h2>Key Learnings</h2>
 
 - Real-time navigation and obstacle detection via machine learning through integration of TensorFlow Lite enabling accurate object detection for obstacle avoidance and navigation
 - Utilization of Google Teachable Machines and ML-Kit's Translate API in Training a Machine Learning Model, facilitating real-time translation, and fostering inclusive communication.
@@ -91,22 +87,22 @@ Languages: Kotlin and Python
   <img src="Project_Portfolio_Web_Page/assets/img/gallery/gallery-2.jpeg" width="200" height="auto">
 </div>
 
-* Modules: Virtual White Cane
+* Module: Virtual White Cane
  <div align="center">
   <img src="Project_Portfolio_Web_Page/assets/img/gallery/gallery-5.jpeg" width="200" height="auto">
  </div>
   
-* Modules: Let's Chat
+* Module: Let's Chat
   <div align="center">
   <img src="Project_Portfolio_Web_Page/assets/img/gallery/gallery-3.jpeg" width="200" height="auto">
   </div>
   
-* Modules: SOS Reach
+* Module: SOS Reach
   <div align="center">
   <img src="Project_Portfolio_Web_Page/assets/img/gallery/gallery-4.jpeg" width="200" height="auto">
  </div>
  
-* Modules: Wellness-Aware Enabler
+* Module: Wellness-Aware Enabler
   <div align="center">
   <img src="Project_Portfolio_Web_Page/assets/img/gallery/gallery-6.jpeg" width="200" height="auto">
   <img src="Project_Portfolio_Web_Page/assets/img/gallery/gallery-7.jpeg" width="200" height="auto">
@@ -135,7 +131,6 @@ Languages: Kotlin and Python
   <img src="certificates.png" width="400" height="auto">
  </div>
   
-This project is licensed under the terms of the MIT license and protected by Udacity Honor Code and Community Code of Conduct. See <a href="LICENSE.md">license</a> and <a href="LICENSE.DISCLAIMER.md">disclaimer</a>.
-Thank you.
+Thank You.
 
 
