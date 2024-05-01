@@ -56,7 +56,7 @@ promoting diversity in digital spaces.
 4. Cloud Service Provider: Amazon Web Services
    - Amazon EC2 Instance
 
-Integrated Development Environment (IDE): Android Studio and Visual Studio Code
+Integrated Development Environment (IDE): Android Studio, Visual Studio Code and Google Colaboratory
 
 Languages: Kotlin and Python
 
@@ -108,7 +108,7 @@ Languages: Kotlin and Python
      <img src="ss3.png" width="300" height="300">
    </div>
  
-  - Cloudification:Usage of EC2 Instance as a Server for this Module
+  - Cloudification: Usage of EC2 Instance as a Server for this Module
     <div align="center">
        <img src="instance.png" width="300" height="300">
     </div>
