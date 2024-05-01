@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/Virtualwhitecane_nav"
+        android:title="WhiteCane"
+        app:actionLayout="@layout/custom_menu_item"
+        app:showAsAction="always"
+        android:icon="@drawable/white"/>
+
+    <item
+        android:id="@+id/LetsChat_nav"
+        android:title="Letschat"
+        app:actionLayout="@layout/custom_menu_item"
+        app:showAsAction="always"
+        android:icon="@drawable/sign_language"/>
+
+    <item
+        android:id="@+id/Home_nav"
+        android:title="Home"
+        app:actionLayout="@layout/custom_menu_item"
+        app:showAsAction="always"
+        android:icon="@drawable/home"/>
+
+    <item
+        android:id="@+id/sos_nav"
+        android:title="SOS"
+        app:actionLayout="@layout/custom_menu_item"
+        app:showAsAction="always"
+        android:icon="@drawable/sos"/>
+
+    <item
+        android:id="@+id/wellness_nav"
+        android:title="Wellness"
+        app:actionLayout="@layout/custom_menu_item"
+        app:showAsAction="always"
+        android:icon="@drawable/bell"/>
+</menu>

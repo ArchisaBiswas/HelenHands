@@ -1,0 +1,131 @@
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/letschat"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LetsChatModule">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/gradient_background"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:context=".LetsChatModule">
+
+        <TextView
+            android:id="@+id/HelenhandsName"
+            android:layout_width="165dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="128dp"
+            android:layout_marginEnd="118dp"
+            android:fontFamily="@font/poppins_semibold"
+            android:text="Let's Chat"
+            android:textColor="@color/white"
+            android:textSize="30sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <com.google.android.material.bottomnavigation.BottomNavigationView
+            android:id="@+id/bottom_navigation"
+            android:layout_width="match_parent"
+            android:layout_height="65dp"
+            android:layout_alignParentBottom="true"
+            app:itemBackground="@color/lavender"
+            app:itemIconTint="@drawable/selector"
+            app:itemTextColor="@drawable/selector"
+            app:menu="@menu/menu_navigation">
+
+        </com.google.android.material.bottomnavigation.BottomNavigationView>
+
+<!--        <TextureView-->
+<!--            android:id="@+id/textureView"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="388dp"-->
+<!--            android:layout_alignParentTop="true"-->
+<!--            android:layout_marginTop="48dp" />-->
+
+        <TextureView
+            android:id="@+id/textureViewLetsChat"
+            android:layout_width="wrap_content"
+            android:layout_height="405dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="73dp"
+            android:layout_marginEnd="21dp" />
+
+
+        <Button
+            android:id="@+id/start_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textureViewLetsChat"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="61dp"
+            android:layout_marginTop="10dp"
+            android:text="Start" />
+
+        <Button
+            android:id="@+id/stop_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textureViewLetsChat"
+            android:layout_marginStart="121dp"
+            android:layout_marginTop="10dp"
+            android:layout_toEndOf="@id/start_button"
+            android:text="Stop" />
+
+        <TextView
+            android:id="@+id/messageTextView"
+            android:layout_width="373dp"
+            android:layout_height="71dp"
+            android:layout_below="@id/start_button"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="4dp"
+            android:text="Translated Text will be displayed here"
+            android:textAlignment="center" />
+
+        <Spinner
+            android:id="@+id/languageOptionsSpinner"
+            android:layout_width="223dp"
+            android:layout_height="36dp"
+            android:layout_below="@id/messageTextView"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="107dp"
+            android:layout_marginTop="7dp"
+            android:text="Language Options Spinner" />
+
+        <Button
+            android:id="@+id/re_set_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/languageOptionsSpinner"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="167dp"
+            android:layout_marginTop="5dp"
+            android:text="Re-Set" />
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="64dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="175dp"
+            android:layout_marginTop="272dp"
+            android:layout_marginEnd="156dp"
+            android:layout_marginBottom="395dp"
+            android:visibility="gone" />
+
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

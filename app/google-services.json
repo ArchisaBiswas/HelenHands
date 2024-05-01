@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1061032935712",
+    "project_id": "helenhandsletschattest",
+    "storage_bucket": "helenhandsletschattest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061032935712:android:26bfbd3347bc1c44629745",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACWlYmJ9QccMhd2mfzp1JVVlncJ7PQAU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
