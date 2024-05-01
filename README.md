@@ -121,17 +121,17 @@ Languages: Kotlin and Python
 <strong>ICSAC 2024 Website Link: https://icsac2024.com/index.html </strong>
 * Brochure
 <div align="center">
-  <img src="performance.png" width="400" height="auto">
+  <img src="brochure.jpg" width="400" height="auto">
  </div>
 
 * Paper Acceptance Notification E-mail
   <div align="center">
-  <img src="performance.png" width="400" height="auto">
+  <img src="email.png" width="400" height="auto">
  </div>
   
 * Paper Acceptance Certificates
   <div align="center">
-  <img src="performance.png" width="400" height="auto">
+  <img src="certificates.png" width="400" height="auto">
  </div>
   
 This project is licensed under the terms of the MIT license and protected by Udacity Honor Code and Community Code of Conduct. See <a href="LICENSE.md">license</a> and <a href="LICENSE.DISCLAIMER.md">disclaimer</a>.
