@@ -90,8 +90,8 @@ Languages: Kotlin and Python
 
 * Mobile Application: Splash Screen and Dashboard
 <div align="center">
-  <img src="splash.png" alt="Splash Screen" width="400" height="auto">
-  <img src=".png" alt="Dashboard" width="400" height="auto">
+  <img src="Project_Portfolio_Web_Page/assets/img/gallery/gallery-1.jpeg" alt="Splash Screen" width="400" height="auto">
+  <img src="Project_Portfolio_Web_Page/assets/img/gallery/gallery-2.jpeg" alt="Dashboard" width="400" height="auto">
 </div>
   
 <h2>Presented at International Conference on Sustainable Advanced Computing 2024</h2>
