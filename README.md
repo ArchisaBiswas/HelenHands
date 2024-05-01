@@ -93,25 +93,25 @@ Languages: Kotlin and Python
  </div>
  
  - Real-Time Object Detection Machine Learning Model
-    <div align="center">
+<div align="center">
   <img src="ss1.png" width="200" height="auto">
   <img src="ss2.png" width="200" height="auto">
 </div>
   
 * Module: Let's Chat
   <div align="center">
-  <img src="Project_Portfolio_Web_Page/assets/img/gallery/gallery-3.jpeg" width="200" height="auto">
+     <img src="Project_Portfolio_Web_Page/assets/img/gallery/gallery-3.jpeg" width="200" height="auto">
   </div>
-  
+
   - Sign Language-to-Text Conversion Machine Learning Model
-  <div align="center">
-  <img src="ss3.png" width="300" height="300">
- </div>
+   <div align="center">
+     <img src="ss3.png" width="300" height="300">
+   </div>
  
- - Cloudification:Usage of EC2 Instance as a Server for this Module
- <div align="center">
-  <img src="instance.png" width="300" height="300">
- </div>
+  - Cloudification:Usage of EC2 Instance as a Server for this Module
+    <div align="center">
+       <img src="instance.png" width="300" height="300">
+    </div>
   
 * Module: SOS Reach
   <div align="center">
