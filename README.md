@@ -116,7 +116,7 @@ Languages: Kotlin and Python
 
 * Performance of Machine Learning Model Implemented in Let's Chat Module
   <div align="center">
-  <img src="performance.png" width="200" height="auto">
+  <img src="performance.png" width="400" height="auto">
  </div>
   
 <h2>Presented at International Conference on Sustainable Advanced Computing 2024</h2>
