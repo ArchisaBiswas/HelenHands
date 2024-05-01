@@ -78,6 +78,7 @@ Languages: Kotlin and Python
 
 
 <h2>Screenshots</h2>
+
 * Project Portfolio Website
 <div align="center">
   <img src="portfolio_1.png" width="300">
@@ -87,6 +88,12 @@ Languages: Kotlin and Python
   <img src="portfolio_3.png" width="300">
 </div>
 
+* Mobile Application: Splash Screen and Dashboard
+<div align="center">
+  <img src="splash.png" alt="Splash Screen" width="400" height="auto">
+  <img src=".png" alt="Dashboard" width="400" height="auto">
+</div>
+  
 <h2>Presented at International Conference on Sustainable Advanced Computing 2024</h2>
 This project is licensed under the terms of the MIT license and protected by Udacity Honor Code and Community Code of Conduct. See <a href="LICENSE.md">license</a> and <a href="LICENSE.DISCLAIMER.md">disclaimer</a>.
 Thank you.
