@@ -54,7 +54,7 @@ promoting diversity in digital spaces.
 2. Google Teachable Machines - For Training the Sign Language-to-Text Conversion Machine Learning Model
 3. ML Kit (involving Firebase) -  Translate API
 4. Cloud Service Provider: Amazon Web Services
- Amazon EC2 Instance
+   - Amazon EC2 Instance
 
 Integrated Development Environment (IDE): Android Studio and Visual Studio Code
 
