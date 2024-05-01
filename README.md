@@ -88,9 +88,9 @@ Languages: Kotlin and Python
 </div>
 
 * Module: Virtual White Cane
- <div align="center">
-  <img src="Project_Portfolio_Web_Page/assets/img/gallery/gallery-5.jpeg" width="200" height="auto">
- </div>
+  <div align="center">
+     <img src="Project_Portfolio_Web_Page/assets/img/gallery/gallery-5.jpeg" width="200" height="auto">
+  </div>
  
     - Real-Time Object Detection Machine Learning Model
       <div align="center">
