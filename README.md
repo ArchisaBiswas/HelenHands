@@ -78,7 +78,14 @@ Languages: Kotlin and Python
 
 
 <h2>Screenshots</h2>
-
+* Project Portfolio Website
+<div align="center">
+  <img src="portfolio_1.png" width="300">
+  <br>
+  <img src="image2.png" width="300">
+  <br>
+  <img src="image3.png" width="300">
+</div>
 
 <h2>Presented at International Conference on Sustainable Advanced Computing 2024</h2>
 This project is licensed under the terms of the MIT license and protected by Udacity Honor Code and Community Code of Conduct. See <a href="LICENSE.md">license</a> and <a href="LICENSE.DISCLAIMER.md">disclaimer</a>.
