@@ -56,7 +56,7 @@ promoting diversity in digital spaces.
 4. Cloud Service Provider: Amazon Web Services
  Amazon EC2 Instance
 
-Integrated Development Environment (IDE): Android Studio
+Integrated Development Environment (IDE): Android Studio and Visual Studio Code
 
 Languages: Kotlin and Python
 
