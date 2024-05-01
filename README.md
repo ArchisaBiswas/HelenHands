@@ -82,9 +82,9 @@ Languages: Kotlin and Python
 <div align="center">
   <img src="portfolio_1.png" width="300">
   <br>
-  <img src="image2.png" width="300">
+  <img src="portfolio_2.png" width="300">
   <br>
-  <img src="image3.png" width="300">
+  <img src="portfolio_3.png" width="300">
 </div>
 
 <h2>Presented at International Conference on Sustainable Advanced Computing 2024</h2>
