@@ -24,24 +24,24 @@ promoting diversity in digital spaces.
 
 <h2>Aims and Objectives</h2>
 
--   Ensuring Safety and Emergency Response
+-   Ensuring Safety and Emergency Response.
 
-- Comprehensive User Interface Design
+- Comprehensive User Interface Design.
 
-- Adaptive Machine Learning Integration
+- Adaptive Machine Learning Integration.
 
-- Community Support and Engagement
+- Community Support and Engagement.
 
 <h2>Requirements</h2>
 
 * Android Minimum Software Development Kit of 28.
 * Working Back Camera of the Phone to be Used.
 * Working Front Camera of the Phone to be Used.
-* Active Internet Connection Required
+* Active Internet Connection Required.
 
 <h2>Key Learnings</h2>
 
-- Real-time navigation and obstacle detection via machine learning through integration of TensorFlow Lite enabling accurate object detection for obstacle avoidance and navigation
+- Real-time navigation and obstacle detection via machine learning through integration of TensorFlow Lite enabling accurate object detection for obstacle avoidance and navigation.
 - Utilization of Google Teachable Machines and ML-Kit's Translate API in Training a Machine Learning Model, facilitating real-time translation, and fostering inclusive communication.
 - Triggering phone call(s) based on audio and/or on-click events occuring using Kotlin.
 - Implementing Periodic Reminders using Kotlin.
@@ -50,15 +50,15 @@ promoting diversity in digital spaces.
 
 <h2>Technical Stack</h2>
 
-1. TensorFlow Lite - Real-Time Object Detection Model
-2. Google Teachable Machines - For Training the Sign Language-to-Text Conversion Machine Learning Model
-3. ML Kit (involving Firebase) -  Translate API
+1. TensorFlow Lite - Real-Time Object Detection Model.
+2. Google Teachable Machines - For Training the Sign Language-to-Text Conversion Machine Learning Model.
+3. ML Kit (involving Firebase) -  Translate API.
 4. Cloud Service Provider: Amazon Web Services
    - Amazon EC2 Instance
 
-Integrated Development Environment (IDE): Android Studio, Visual Studio Code and Google Colaboratory
+Integrated Development Environment (IDE): Android Studio, Visual Studio Code and Google Colaboratory.
 
-Languages: Kotlin and Python
+Languages: Kotlin and Python.
 
 
 <h2>Module Descriptions</h2>
